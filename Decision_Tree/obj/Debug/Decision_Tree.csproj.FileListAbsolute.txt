@@ -1,0 +1,8 @@
+C:\Users\user\Documents\Visual Studio 2012\Projects\Decision_Tree\Decision_Tree\bin\Debug\Decision_Tree.exe
+C:\Users\user\Documents\Visual Studio 2012\Projects\Decision_Tree\Decision_Tree\bin\Debug\Decision_Tree.pdb
+C:\Users\user\Documents\Visual Studio 2012\Projects\Decision_Tree\Decision_Tree\obj\Debug\Decision_Tree.Form1.resources
+C:\Users\user\Documents\Visual Studio 2012\Projects\Decision_Tree\Decision_Tree\obj\Debug\Decision_Tree.Properties.Resources.resources
+C:\Users\user\Documents\Visual Studio 2012\Projects\Decision_Tree\Decision_Tree\obj\Debug\Decision_Tree.csproj.GenerateResource.Cache
+C:\Users\user\Documents\Visual Studio 2012\Projects\Decision_Tree\Decision_Tree\obj\Debug\Decision_Tree.exe
+C:\Users\user\Documents\Visual Studio 2012\Projects\Decision_Tree\Decision_Tree\obj\Debug\Decision_Tree.pdb
+C:\Users\user\Documents\Visual Studio 2012\Projects\Decision_Tree\Decision_Tree\obj\Debug\Decision_Tree.csprojResolveAssemblyReference.cache
