@@ -286,7 +286,7 @@ namespace Decision_Tree
                             else
                             {
                                 dataGridView2.Rows[1].Cells[index[0]].Style.BackColor = Color.Green;
-                                label1.Text = "Player 1: " + String.Format("{0:0.##}", firstProfit1[1, index[0]]) + ", Player 2: " + String.Format("{0:0.##}", firstProfit1[1, index[0]]);
+                                label1.Text = "Player 1: " + String.Format("{0:0.##}", firstProfit1[1, index[0]]) + ", Player 2: " + String.Format("{0:0.##}", firstProfit2[1, index[0]]);
                             }
                         }
                         else //No dominant strategy, calculate Expected utility
