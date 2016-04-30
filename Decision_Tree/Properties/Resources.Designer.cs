@@ -63,6 +63,26 @@ namespace Decision_Tree.Properties {
         /// <summary>
         ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
+        internal static System.Drawing.Bitmap legend {
+            get {
+                object obj = ResourceManager.GetObject("legend", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap mapping {
+            get {
+                object obj = ResourceManager.GetObject("mapping", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
         internal static System.Drawing.Bitmap tree_full {
             get {
                 object obj = ResourceManager.GetObject("tree_full", resourceCulture);
